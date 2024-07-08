@@ -17,6 +17,6 @@ jobs:
       with:
         type: git
         app: tera
-        environment: tera-dot
+        environment: terabox
         username: ${{ secrets.APTIBLE_USERNAME }}
         password: ${{ secrets.APTIBLE_PASSWORD }}
